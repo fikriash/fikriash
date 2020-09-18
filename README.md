@@ -37,10 +37,8 @@ By combining my analytical skill with programming language that I have learned, 
 
 [<img align="left" alt="fikriash | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="fikriash | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="fikriash | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 [instagram]: https://www.instagram.com/fikriash
 [linkedin]: https://www.linkedin.com/in/fikri-aziz
-[gmail]: https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtMhGLrjpKHDPnQPrtdfdBtfgnVMWSXQGVzsPfqhMsgnRbBZlzqVqpjgxfMWVwsRvmwdHGQG
 <br />
 
