@@ -11,6 +11,7 @@ By combining my analytical skill with programming language that I have learned, 
 <p align="center">
   <a href="https://github.com/fikriash/MachineLearning-CourseSuccessPrediction"><img src="https://i.ibb.co/WD3sqLS/Udemy-course.png" alt="fikriash" width="227" height="227"></a>
   <a href="https://github.com/fikriash/MachineLearning-Employee_Satisfaction"><img src="https://i.ibb.co/4td9pyR/Satisfaction-employee.png" alt="fikriash" width="227" height="227"></a>
+  <a href="https://github.com/fikriash/Project-Toko-Buah"><img src="https://i.ibb.co/BfCZ8q5/fikriash-s-Project.png" alt="fikriash" width="227" height="227"></a>
 </p>
 <p align="center">
 </p>
